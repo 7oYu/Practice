@@ -3,69 +3,64 @@
   "WorkspaceRootPath": "D:\\Code\\vs_dir\\cuda_p\\CudaRuntime\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2F698592-6106-42E8-924C-CBC2B5E599A9}|CudaRuntime\\CudaRuntime.vcxproj|D:\\Code\\vs_dir\\cuda_p\\CudaRuntime\\CudaRuntime\\tensorRT\\learn_rt.cu||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{2F698592-6106-42E8-924C-CBC2B5E599A9}|CudaRuntime\\CudaRuntime.vcxproj|solutionrelative:CudaRuntime\\tensorRT\\learn_rt.cu||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{2F698592-6106-42E8-924C-CBC2B5E599A9}|CudaRuntime\\CudaRuntime.vcxproj|D:\\Code\\vs_dir\\cuda_p\\CudaRuntime\\CudaRuntime\\my_gemm.cu||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2F698592-6106-42E8-924C-CBC2B5E599A9}|CudaRuntime\\CudaRuntime.vcxproj|solutionrelative:CudaRuntime\\my_gemm.cu||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F698592-6106-42E8-924C-CBC2B5E599A9}|CudaRuntime\\CudaRuntime.vcxproj|D:\\Code\\vs_dir\\cuda_p\\CudaRuntime\\CudaRuntime\\my_gemm.cuh||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2F698592-6106-42E8-924C-CBC2B5E599A9}|CudaRuntime\\CudaRuntime.vcxproj|solutionrelative:CudaRuntime\\my_gemm.cuh||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2F698592-6106-42E8-924C-CBC2B5E599A9}|CudaRuntime\\CudaRuntime.vcxproj|D:\\Code\\vs_dir\\cuda_p\\CudaRuntime\\CudaRuntime\\kernel.cu||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{2F698592-6106-42E8-924C-CBC2B5E599A9}|CudaRuntime\\CudaRuntime.vcxproj|solutionrelative:CudaRuntime\\kernel.cu||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2F698592-6106-42E8-924C-CBC2B5E599A9}|CudaRuntime\\CudaRuntime.vcxproj|D:\\Code\\vs_dir\\cuda_p\\CudaRuntime\\CudaRuntime\\tensorRT\\learn_rt.cuh||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{2F698592-6106-42E8-924C-CBC2B5E599A9}|CudaRuntime\\CudaRuntime.vcxproj|solutionrelative:CudaRuntime\\tensorRT\\learn_rt.cuh||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2F698592-6106-42E8-924C-CBC2B5E599A9}|CudaRuntime\\CudaRuntime.vcxproj|D:\\Code\\vs_dir\\cuda_p\\CudaRuntime\\CudaRuntime\\learn_idx.cu||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{2F698592-6106-42E8-924C-CBC2B5E599A9}|CudaRuntime\\CudaRuntime.vcxproj|solutionrelative:CudaRuntime\\learn_idx.cu||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2F698592-6106-42E8-924C-CBC2B5E599A9}|CudaRuntime\\CudaRuntime.vcxproj|D:\\Code\\vs_dir\\cuda_p\\CudaRuntime\\CudaRuntime\\learn_idx.cuh||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{2F698592-6106-42E8-924C-CBC2B5E599A9}|CudaRuntime\\CudaRuntime.vcxproj|solutionrelative:CudaRuntime\\learn_idx.cuh||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2F698592-6106-42E8-924C-CBC2B5E599A9}|CudaRuntime\\CudaRuntime.vcxproj|D:\\Code\\vs_dir\\cuda_p\\CudaRuntime\\CudaRuntime\\learn_cublas.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{2F698592-6106-42E8-924C-CBC2B5E599A9}|CudaRuntime\\CudaRuntime.vcxproj|solutionrelative:CudaRuntime\\learn_cublas.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2F698592-6106-42E8-924C-CBC2B5E599A9}|CudaRuntime\\CudaRuntime.vcxproj|D:\\Code\\vs_dir\\cuda_p\\CudaRuntime\\CudaRuntime\\learn_shared.cuh||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{2F698592-6106-42E8-924C-CBC2B5E599A9}|CudaRuntime\\CudaRuntime.vcxproj|solutionrelative:CudaRuntime\\learn_shared.cuh||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2F698592-6106-42E8-924C-CBC2B5E599A9}|CudaRuntime\\CudaRuntime.vcxproj|D:\\Code\\vs_dir\\cuda_p\\CudaRuntime\\CudaRuntime\\learn_shuffle.cu||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{2F698592-6106-42E8-924C-CBC2B5E599A9}|CudaRuntime\\CudaRuntime.vcxproj|solutionrelative:CudaRuntime\\learn_shuffle.cu||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2F698592-6106-42E8-924C-CBC2B5E599A9}|CudaRuntime\\CudaRuntime.vcxproj|D:\\Code\\vs_dir\\cuda_p\\CudaRuntime\\CudaRuntime\\learn_shuffle.cuh||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{2F698592-6106-42E8-924C-CBC2B5E599A9}|CudaRuntime\\CudaRuntime.vcxproj|solutionrelative:CudaRuntime\\learn_shuffle.cuh||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{2F698592-6106-42E8-924C-CBC2B5E599A9}|CudaRuntime\\CudaRuntime.vcxproj|D:\\Code\\vs_dir\\cuda_p\\CudaRuntime\\CudaRuntime\\tensorRT\\learn_rt.cu||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2F698592-6106-42E8-924C-CBC2B5E599A9}|CudaRuntime\\CudaRuntime.vcxproj|solutionrelative:CudaRuntime\\tensorRT\\learn_rt.cu||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F698592-6106-42E8-924C-CBC2B5E599A9}|CudaRuntime\\CudaRuntime.vcxproj|D:\\Code\\vs_dir\\cuda_p\\CudaRuntime\\CudaRuntime\\learn_shared.cu||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2F698592-6106-42E8-924C-CBC2B5E599A9}|CudaRuntime\\CudaRuntime.vcxproj|solutionrelative:CudaRuntime\\learn_shared.cu||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F698592-6106-42E8-924C-CBC2B5E599A9}|CudaRuntime\\CudaRuntime.vcxproj|D:\\Code\\vs_dir\\cuda_p\\CudaRuntime\\CudaRuntime\\learn_atomic.cu||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2F698592-6106-42E8-924C-CBC2B5E599A9}|CudaRuntime\\CudaRuntime.vcxproj|solutionrelative:CudaRuntime\\learn_atomic.cu||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2F698592-6106-42E8-924C-CBC2B5E599A9}|CudaRuntime\\CudaRuntime.vcxproj|D:\\Code\\vs_dir\\cuda_p\\CudaRuntime\\CudaRuntime\\learn_cublas.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{2F698592-6106-42E8-924C-CBC2B5E599A9}|CudaRuntime\\CudaRuntime.vcxproj|solutionrelative:CudaRuntime\\learn_cublas.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2F698592-6106-42E8-924C-CBC2B5E599A9}|CudaRuntime\\CudaRuntime.vcxproj|D:\\Code\\vs_dir\\cuda_p\\CudaRuntime\\CudaRuntime\\learn_atomic.cuh||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{2F698592-6106-42E8-924C-CBC2B5E599A9}|CudaRuntime\\CudaRuntime.vcxproj|solutionrelative:CudaRuntime\\learn_atomic.cuh||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{2F698592-6106-42E8-924C-CBC2B5E599A9}|CudaRuntime\\CudaRuntime.vcxproj|D:\\Code\\vs_dir\\cuda_p\\CudaRuntime\\CudaRuntime\\learn_idx.cu||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2F698592-6106-42E8-924C-CBC2B5E599A9}|CudaRuntime\\CudaRuntime.vcxproj|solutionrelative:CudaRuntime\\learn_idx.cu||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2F698592-6106-42E8-924C-CBC2B5E599A9}|CudaRuntime\\CudaRuntime.vcxproj|D:\\Code\\vs_dir\\cuda_p\\CudaRuntime\\CudaRuntime\\learn_stream.cu||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{2F698592-6106-42E8-924C-CBC2B5E599A9}|CudaRuntime\\CudaRuntime.vcxproj|solutionrelative:CudaRuntime\\learn_stream.cu||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2F698592-6106-42E8-924C-CBC2B5E599A9}|CudaRuntime\\CudaRuntime.vcxproj|D:\\Code\\vs_dir\\cuda_p\\CudaRuntime\\CudaRuntime\\learn_stream.cuh||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{2F698592-6106-42E8-924C-CBC2B5E599A9}|CudaRuntime\\CudaRuntime.vcxproj|solutionrelative:CudaRuntime\\learn_stream.cuh||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2F698592-6106-42E8-924C-CBC2B5E599A9}|CudaRuntime\\CudaRuntime.vcxproj|D:\\Code\\vs_dir\\cuda_p\\CudaRuntime\\CudaRuntime\\CudaObjectBase.cuh||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{2F698592-6106-42E8-924C-CBC2B5E599A9}|CudaRuntime\\CudaRuntime.vcxproj|solutionrelative:CudaRuntime\\CudaObjectBase.cuh||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.2\\include\\cublas_v2.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{2F698592-6106-42E8-924C-CBC2B5E599A9}|CudaRuntime\\CudaRuntime.vcxproj|D:\\Code\\vs_dir\\cuda_p\\CudaRuntime\\CudaRuntime\\learn_shared.cuh||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2F698592-6106-42E8-924C-CBC2B5E599A9}|CudaRuntime\\CudaRuntime.vcxproj|solutionrelative:CudaRuntime\\learn_shared.cuh||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.2\\include\\NvInfer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{2F698592-6106-42E8-924C-CBC2B5E599A9}|CudaRuntime\\CudaRuntime.vcxproj|D:\\Code\\vs_dir\\cuda_p\\CudaRuntime\\CudaRuntime\\learn_cublas.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2F698592-6106-42E8-924C-CBC2B5E599A9}|CudaRuntime\\CudaRuntime.vcxproj|solutionrelative:CudaRuntime\\learn_cublas.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.2\\include\\cuda_runtime_api.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{2F698592-6106-42E8-924C-CBC2B5E599A9}|CudaRuntime\\CudaRuntime.vcxproj|D:\\Code\\vs_dir\\cuda_p\\CudaRuntime\\CudaRuntime\\learn_stream.cuh||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2F698592-6106-42E8-924C-CBC2B5E599A9}|CudaRuntime\\CudaRuntime.vcxproj|solutionrelative:CudaRuntime\\learn_stream.cuh||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F698592-6106-42E8-924C-CBC2B5E599A9}|CudaRuntime\\CudaRuntime.vcxproj|D:\\Code\\vs_dir\\cuda_p\\CudaRuntime\\CudaRuntime\\tensorRT\\learn_plugin.cu||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2F698592-6106-42E8-924C-CBC2B5E599A9}|CudaRuntime\\CudaRuntime.vcxproj|solutionrelative:CudaRuntime\\tensorRT\\learn_plugin.cu||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -75,211 +70,202 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "learn_rt.cu",
-              "DocumentMoniker": "D:\\Code\\vs_dir\\cuda_p\\CudaRuntime\\CudaRuntime\\tensorRT\\learn_rt.cu",
-              "RelativeDocumentMoniker": "CudaRuntime\\tensorRT\\learn_rt.cu",
-              "ToolTip": "D:\\Code\\vs_dir\\cuda_p\\CudaRuntime\\CudaRuntime\\tensorRT\\learn_rt.cu",
-              "RelativeToolTip": "CudaRuntime\\tensorRT\\learn_rt.cu",
-              "ViewState": "AQIAABAAAAAAAAAAAAASwBsAAAA5AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-08-28T11:35:03.359Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "learn_rt.cuh",
-              "DocumentMoniker": "D:\\Code\\vs_dir\\cuda_p\\CudaRuntime\\CudaRuntime\\tensorRT\\learn_rt.cuh",
-              "RelativeDocumentMoniker": "CudaRuntime\\tensorRT\\learn_rt.cuh",
-              "ToolTip": "D:\\Code\\vs_dir\\cuda_p\\CudaRuntime\\CudaRuntime\\tensorRT\\learn_rt.cuh",
-              "RelativeToolTip": "CudaRuntime\\tensorRT\\learn_rt.cuh",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-08-28T11:35:19.523Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "learn_cublas.h",
-              "DocumentMoniker": "D:\\Code\\vs_dir\\cuda_p\\CudaRuntime\\CudaRuntime\\learn_cublas.h",
-              "RelativeDocumentMoniker": "CudaRuntime\\learn_cublas.h",
-              "ToolTip": "D:\\Code\\vs_dir\\cuda_p\\CudaRuntime\\CudaRuntime\\learn_cublas.h",
-              "RelativeToolTip": "CudaRuntime\\learn_cublas.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-08-26T06:57:12.605Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "learn_shuffle.cuh",
-              "DocumentMoniker": "D:\\Code\\vs_dir\\cuda_p\\CudaRuntime\\CudaRuntime\\learn_shuffle.cuh",
-              "RelativeDocumentMoniker": "CudaRuntime\\learn_shuffle.cuh",
-              "ToolTip": "D:\\Code\\vs_dir\\cuda_p\\CudaRuntime\\CudaRuntime\\learn_shuffle.cuh",
-              "RelativeToolTip": "CudaRuntime\\learn_shuffle.cuh",
-              "ViewState": "AQIAAAAAAAAAAAAAAADwvwMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-08-22T06:37:08.193Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "learn_stream.cu",
-              "DocumentMoniker": "D:\\Code\\vs_dir\\cuda_p\\CudaRuntime\\CudaRuntime\\learn_stream.cu",
-              "RelativeDocumentMoniker": "CudaRuntime\\learn_stream.cu",
-              "ToolTip": "D:\\Code\\vs_dir\\cuda_p\\CudaRuntime\\CudaRuntime\\learn_stream.cu",
-              "RelativeToolTip": "CudaRuntime\\learn_stream.cu",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAMAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-08-22T06:36:56.897Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "learn_stream.cuh",
-              "DocumentMoniker": "D:\\Code\\vs_dir\\cuda_p\\CudaRuntime\\CudaRuntime\\learn_stream.cuh",
-              "RelativeDocumentMoniker": "CudaRuntime\\learn_stream.cuh",
-              "ToolTip": "D:\\Code\\vs_dir\\cuda_p\\CudaRuntime\\CudaRuntime\\learn_stream.cuh",
-              "RelativeToolTip": "CudaRuntime\\learn_stream.cuh",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-08-22T06:36:46.588Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "cuda_runtime_api.h",
-              "DocumentMoniker": "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.2\\include\\cuda_runtime_api.h",
-              "ToolTip": "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.2\\include\\cuda_runtime_api.h",
-              "ViewState": "AQIAANUcAAAAAAAAAAAlwAwdAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-08-22T06:32:53.012Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "learn_idx.cu",
-              "DocumentMoniker": "D:\\Code\\vs_dir\\cuda_p\\CudaRuntime\\CudaRuntime\\learn_idx.cu",
-              "RelativeDocumentMoniker": "CudaRuntime\\learn_idx.cu",
-              "ToolTip": "D:\\Code\\vs_dir\\cuda_p\\CudaRuntime\\CudaRuntime\\learn_idx.cu",
-              "RelativeToolTip": "CudaRuntime\\learn_idx.cu",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAATAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-08-21T10:06:38.846Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "kernel.cu",
               "DocumentMoniker": "D:\\Code\\vs_dir\\cuda_p\\CudaRuntime\\CudaRuntime\\kernel.cu",
               "RelativeDocumentMoniker": "CudaRuntime\\kernel.cu",
               "ToolTip": "D:\\Code\\vs_dir\\cuda_p\\CudaRuntime\\CudaRuntime\\kernel.cu",
               "RelativeToolTip": "CudaRuntime\\kernel.cu",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAeAAAA",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAADoAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-08-22T06:27:02.869Z",
+              "WhenOpened": "2024-09-01T05:33:46.036Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "learn_idx.cuh",
-              "DocumentMoniker": "D:\\Code\\vs_dir\\cuda_p\\CudaRuntime\\CudaRuntime\\learn_idx.cuh",
-              "RelativeDocumentMoniker": "CudaRuntime\\learn_idx.cuh",
-              "ToolTip": "D:\\Code\\vs_dir\\cuda_p\\CudaRuntime\\CudaRuntime\\learn_idx.cuh",
-              "RelativeToolTip": "CudaRuntime\\learn_idx.cuh",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Title": "learn_rt.cu",
+              "DocumentMoniker": "D:\\Code\\vs_dir\\cuda_p\\CudaRuntime\\CudaRuntime\\tensorRT\\learn_rt.cu",
+              "RelativeDocumentMoniker": "CudaRuntime\\tensorRT\\learn_rt.cu",
+              "ToolTip": "D:\\Code\\vs_dir\\cuda_p\\CudaRuntime\\CudaRuntime\\tensorRT\\learn_rt.cu",
+              "RelativeToolTip": "CudaRuntime\\tensorRT\\learn_rt.cu",
+              "ViewState": "AQIAABIAAAAAAAAAAADwvysAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-08-21T10:06:37.107Z",
+              "WhenOpened": "2024-09-01T04:35:57.755Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "NvInfer.h",
-              "DocumentMoniker": "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.2\\include\\NvInfer.h",
-              "ToolTip": "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.2\\include\\NvInfer.h",
-              "ViewState": "AQIAAAcbAAAAAAAAAAAlwB0bAABIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-08-28T11:38:21.46Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 3,
               "Title": "learn_shuffle.cu",
               "DocumentMoniker": "D:\\Code\\vs_dir\\cuda_p\\CudaRuntime\\CudaRuntime\\learn_shuffle.cu",
               "RelativeDocumentMoniker": "CudaRuntime\\learn_shuffle.cu",
               "ToolTip": "D:\\Code\\vs_dir\\cuda_p\\CudaRuntime\\CudaRuntime\\learn_shuffle.cu",
               "RelativeToolTip": "CudaRuntime\\learn_shuffle.cu",
-              "ViewState": "AQIAAAAAAAAAAAAAAADwvw0AAAA/AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwkAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-08-26T06:47:37.169Z"
+              "WhenOpened": "2024-09-01T04:34:56.566Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
+              "Title": "learn_stream.cu",
+              "DocumentMoniker": "D:\\Code\\vs_dir\\cuda_p\\CudaRuntime\\CudaRuntime\\learn_stream.cu",
+              "RelativeDocumentMoniker": "CudaRuntime\\learn_stream.cu",
+              "ToolTip": "D:\\Code\\vs_dir\\cuda_p\\CudaRuntime\\CudaRuntime\\learn_stream.cu",
+              "RelativeToolTip": "CudaRuntime\\learn_stream.cu",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-01T04:32:31.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "learn_shared.cu",
+              "DocumentMoniker": "D:\\Code\\vs_dir\\cuda_p\\CudaRuntime\\CudaRuntime\\learn_shared.cu",
+              "RelativeDocumentMoniker": "CudaRuntime\\learn_shared.cu",
+              "ToolTip": "D:\\Code\\vs_dir\\cuda_p\\CudaRuntime\\CudaRuntime\\learn_shared.cu",
+              "RelativeToolTip": "CudaRuntime\\learn_shared.cu",
+              "ViewState": "AQIAABgAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-01T04:29:28.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "learn_cublas.cpp",
               "DocumentMoniker": "D:\\Code\\vs_dir\\cuda_p\\CudaRuntime\\CudaRuntime\\learn_cublas.cpp",
               "RelativeDocumentMoniker": "CudaRuntime\\learn_cublas.cpp",
               "ToolTip": "D:\\Code\\vs_dir\\cuda_p\\CudaRuntime\\CudaRuntime\\learn_cublas.cpp",
               "RelativeToolTip": "CudaRuntime\\learn_cublas.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAdAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-08-26T06:58:28.116Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "cublas_v2.h",
-              "DocumentMoniker": "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.2\\include\\cublas_v2.h",
-              "ToolTip": "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.2\\include\\cublas_v2.h",
-              "ViewState": "AQIAAIMAAAAAAAAAAAAawJgAAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-08-26T07:12:25.838Z"
+              "WhenOpened": "2024-09-01T04:28:56.631Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "learn_shared.cuh",
-              "DocumentMoniker": "D:\\Code\\vs_dir\\cuda_p\\CudaRuntime\\CudaRuntime\\learn_shared.cuh",
-              "RelativeDocumentMoniker": "CudaRuntime\\learn_shared.cuh",
-              "ToolTip": "D:\\Code\\vs_dir\\cuda_p\\CudaRuntime\\CudaRuntime\\learn_shared.cuh",
-              "RelativeToolTip": "CudaRuntime\\learn_shared.cuh",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAGAAAA",
+              "Title": "learn_atomic.cu",
+              "DocumentMoniker": "D:\\Code\\vs_dir\\cuda_p\\CudaRuntime\\CudaRuntime\\learn_atomic.cu",
+              "RelativeDocumentMoniker": "CudaRuntime\\learn_atomic.cu",
+              "ToolTip": "D:\\Code\\vs_dir\\cuda_p\\CudaRuntime\\CudaRuntime\\learn_atomic.cu",
+              "RelativeToolTip": "CudaRuntime\\learn_atomic.cu",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvxMAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-08-21T10:00:34.01Z"
+              "WhenOpened": "2024-09-01T04:28:45.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "my_gemm.cuh",
+              "DocumentMoniker": "D:\\Code\\vs_dir\\cuda_p\\CudaRuntime\\CudaRuntime\\my_gemm.cuh",
+              "RelativeDocumentMoniker": "CudaRuntime\\my_gemm.cuh",
+              "ToolTip": "D:\\Code\\vs_dir\\cuda_p\\CudaRuntime\\CudaRuntime\\my_gemm.cuh",
+              "RelativeToolTip": "CudaRuntime\\my_gemm.cuh",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-01T04:02:22.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "my_gemm.cu",
+              "DocumentMoniker": "D:\\Code\\vs_dir\\cuda_p\\CudaRuntime\\CudaRuntime\\my_gemm.cu",
+              "RelativeDocumentMoniker": "CudaRuntime\\my_gemm.cu",
+              "ToolTip": "D:\\Code\\vs_dir\\cuda_p\\CudaRuntime\\CudaRuntime\\my_gemm.cu",
+              "RelativeToolTip": "CudaRuntime\\my_gemm.cu",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-01T04:02:05.368Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "learn_atomic.cuh",
-              "DocumentMoniker": "D:\\Code\\vs_dir\\cuda_p\\CudaRuntime\\CudaRuntime\\learn_atomic.cuh",
-              "RelativeDocumentMoniker": "CudaRuntime\\learn_atomic.cuh",
-              "ToolTip": "D:\\Code\\vs_dir\\cuda_p\\CudaRuntime\\CudaRuntime\\learn_atomic.cuh",
-              "RelativeToolTip": "CudaRuntime\\learn_atomic.cuh",
-              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-08-21T10:06:35.396Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
               "Title": "CudaObjectBase.cuh",
               "DocumentMoniker": "D:\\Code\\vs_dir\\cuda_p\\CudaRuntime\\CudaRuntime\\CudaObjectBase.cuh",
               "RelativeDocumentMoniker": "CudaRuntime\\CudaObjectBase.cuh",
               "ToolTip": "D:\\Code\\vs_dir\\cuda_p\\CudaRuntime\\CudaRuntime\\CudaObjectBase.cuh",
               "RelativeToolTip": "CudaRuntime\\CudaObjectBase.cuh",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-08-21T10:00:29.346Z"
+              "WhenOpened": "2024-09-01T04:28:46.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "learn_shared.cuh",
+              "DocumentMoniker": "D:\\Code\\vs_dir\\cuda_p\\CudaRuntime\\CudaRuntime\\learn_shared.cuh",
+              "RelativeDocumentMoniker": "CudaRuntime\\learn_shared.cuh",
+              "ToolTip": "D:\\Code\\vs_dir\\cuda_p\\CudaRuntime\\CudaRuntime\\learn_shared.cuh",
+              "RelativeToolTip": "CudaRuntime\\learn_shared.cuh",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-01T04:29:27.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "learn_cublas.h",
+              "DocumentMoniker": "D:\\Code\\vs_dir\\cuda_p\\CudaRuntime\\CudaRuntime\\learn_cublas.h",
+              "RelativeDocumentMoniker": "CudaRuntime\\learn_cublas.h",
+              "ToolTip": "D:\\Code\\vs_dir\\cuda_p\\CudaRuntime\\CudaRuntime\\learn_cublas.h",
+              "RelativeToolTip": "CudaRuntime\\learn_cublas.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-01T04:28:44.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "learn_idx.cu",
+              "DocumentMoniker": "D:\\Code\\vs_dir\\cuda_p\\CudaRuntime\\CudaRuntime\\learn_idx.cu",
+              "RelativeDocumentMoniker": "CudaRuntime\\learn_idx.cu",
+              "ToolTip": "D:\\Code\\vs_dir\\cuda_p\\CudaRuntime\\CudaRuntime\\learn_idx.cu",
+              "RelativeToolTip": "CudaRuntime\\learn_idx.cu",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvw4AAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-01T04:18:07.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "learn_stream.cuh",
+              "DocumentMoniker": "D:\\Code\\vs_dir\\cuda_p\\CudaRuntime\\CudaRuntime\\learn_stream.cuh",
+              "RelativeDocumentMoniker": "CudaRuntime\\learn_stream.cuh",
+              "ToolTip": "D:\\Code\\vs_dir\\cuda_p\\CudaRuntime\\CudaRuntime\\learn_stream.cuh",
+              "RelativeToolTip": "CudaRuntime\\learn_stream.cuh",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-01T04:02:26.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "learn_plugin.cu",
+              "DocumentMoniker": "D:\\Code\\vs_dir\\cuda_p\\CudaRuntime\\CudaRuntime\\tensorRT\\learn_plugin.cu",
+              "RelativeDocumentMoniker": "CudaRuntime\\tensorRT\\learn_plugin.cu",
+              "ToolTip": "D:\\Code\\vs_dir\\cuda_p\\CudaRuntime\\CudaRuntime\\tensorRT\\learn_plugin.cu",
+              "RelativeToolTip": "CudaRuntime\\tensorRT\\learn_plugin.cu",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-29T09:50:07.901Z",
+              "EditorCaption": ""
             }
           ]
         }

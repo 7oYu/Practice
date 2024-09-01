@@ -1,11 +1,1 @@
-﻿  Compiling CUDA source file tensorRT\learn_rt.cu...
-  
-  D:\Code\vs_dir\cuda_p\CudaRuntime\CudaRuntime>"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.2\bin\nvcc.exe" -gencode=arch=compute_52,code=\"sm_52,compute_52\" --use-local-env -ccbin "D:\7oYu_Software\VisualStudio\VC\Tools\MSVC\14.40.33807\bin\HostX64\x64" -x cu   -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.2\include" -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.2\include"  -G   --keep-dir x64\Debug  -maxrregcount=0   --machine 64 --compile -cudart static  -g  -DWIN32 -DWIN64 -D_DEBUG -D_CONSOLE -D_MBCS -Xcompiler "/EHsc /W3 /nologo /Od /FS /Zi /RTC1 /MDd " -Xcompiler "/Fdx64\Debug\vc143.pdb" -o D:\Code\vs_dir\cuda_p\CudaRuntime\CudaRuntime\x64\Debug\learn_rt.cu.obj "D:\Code\vs_dir\cuda_p\CudaRuntime\CudaRuntime\tensorRT\learn_rt.cu" 
-C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.2\include\NvInfer.h(6125): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
-C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.2\include\NvInfer.h(6125): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
-  learn_rt.cu
-  tmpxft_0000bc9c_00000000-7_learn_rt.cudafe1.cpp
-  learn_cublas.cpp
-    正在创建库 D:\Code\vs_dir\cuda_p\CudaRuntime\x64\Debug\CudaRuntime.lib 和对象 D:\Code\vs_dir\cuda_p\CudaRuntime\x64\Debug\CudaRuntime.exp
-LINK : warning LNK4098: 默认库“LIBCMT”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
-  CudaRuntime.vcxproj -> D:\Code\vs_dir\cuda_p\CudaRuntime\x64\Debug\CudaRuntime.exe
+﻿

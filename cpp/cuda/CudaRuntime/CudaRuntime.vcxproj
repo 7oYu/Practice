@@ -94,10 +94,14 @@
     <ClInclude Include="learn_shared.cuh" />
     <ClInclude Include="learn_shuffle.cuh" />
     <ClInclude Include="learn_stream.cuh" />
+    <ClInclude Include="my_gemm.cuh" />
+    <ClInclude Include="tensorRT\learn_plugin.cuh" />
     <ClInclude Include="tensorRT\learn_rt.cuh" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="learn_cublas.cpp" />
+    <CudaCompile Include="my_gemm.cu" />
+    <CudaCompile Include="tensorRT\learn_plugin.cu" />
     <CudaCompile Include="tensorRT\learn_rt.cu">
       <FileType>Document</FileType>
     </CudaCompile>

@@ -37,9 +37,9 @@ void learn_rt() {
 	// cudaMemset(input_ptr, 1, 9 * sizeof(float)); // cudaMemset只能按字节初始化， 用来初始化float数组有问题
 	initializeArray<<<1, 16>>>(input_ptr, 1, 9);
 	float* buffer[2] = { input_ptr , output_ptr };
-	cudaMemPrefetchAsync(input_ptr, 9 * sizeof(float), cudaMemLocationTypeDevice);
+	cudaMemPrefetchAsync(input_ptr, 9 * sizeof(float), 0);
 	execution->executeV2((void* const*)buffer);
-	cudaMemPrefetchAsync(output_ptr, (9 - 2) * sizeof(float), cudaMemLocationTypeHost);
+	cudaMemPrefetchAsync(output_ptr, (9 - 2) * sizeof(float), cudaCpuDeviceId);
 	cudaDeviceSynchronize();
 	std::cout << "input is : \n";
 	for (int i = 0; i < 7; ++i) {

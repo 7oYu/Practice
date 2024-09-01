@@ -12,13 +12,13 @@ void learn_stream()
 	int block_size = 512;
 	int data_size = grid_size * block_size;
 	cudaMallocManaged(&data, data_size * sizeof(int));
-	cudaMemPrefetchAsync(data, data_size * sizeof(int), cudaMemLocationTypeDevice);
+	cudaMemPrefetchAsync(data, data_size * sizeof(int), 0);
 	for (size_t i = 0; i < 2; i++)
 	{
 		int offset = data_size / 2;
 		kernal_add << <grid_size, block_size >> > (data + i * offset, offset);
 	}
-	cudaMemPrefetchAsync(data, data_size * sizeof(int), cudaMemLocationTypeHost);
+	cudaMemPrefetchAsync(data, data_size * sizeof(int), cudaCpuDeviceId);
 	cudaDeviceSynchronize();
 	std::cout << "learn_stream ret: " << std::endl;
 	for (int i = 0; i < 16; ++i) {

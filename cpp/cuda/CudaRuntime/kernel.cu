@@ -8,6 +8,7 @@
 #include "learn_stream.cuh"
 #include "learn_cublas.h"
 #include "tensorRT/learn_rt.cuh"
+#include "my_gemm.cuh"
 #include <stdio.h>
 
 cudaError_t addWithCuda(int *c, const int *a, const int *b, unsigned int size);
@@ -54,7 +55,8 @@ int main()
     // learn_shuffle();
     // learn_stream();
     // learn_cublas();
-    learn_rt();
+    // learn_rt();
+    my_gemm();
     return 0;
 }
 

@@ -12,10 +12,10 @@ void learn_idx() {
 	dim3 grid_size(ret_size, 1, 1);
 	dim3 block_size(2, 1, 1);
 	// cudaMallocManaged 申请的统一内存不会直接分配设备内存， cudaMemPrefetchAsync用于提前分配设备内存
-	cudaMemPrefetchAsync(ret_array, ret_size * sizeof(int), cudaMemLocationTypeDevice); 
+	cudaMemPrefetchAsync(ret_array, ret_size * sizeof(int), 0); 
 	learn_idx<<<grid_size, block_size >>>(ret_array, ret_size);
 	// 将设备内存上的内容同步到主机内存
-	cudaMemPrefetchAsync(ret_array, ret_size * sizeof(int), cudaMemLocationTypeHost);
+	cudaMemPrefetchAsync(ret_array, ret_size * sizeof(int), cudaCpuDeviceId);
 	cudaDeviceSynchronize();
 	std::cout << "learn_idx ret: " << std::endl;
 	for (int i = 0; i < ret_size; ++i) {
