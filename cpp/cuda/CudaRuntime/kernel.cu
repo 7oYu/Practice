@@ -9,6 +9,7 @@
 #include "learn_cublas.h"
 #include "tensorRT/learn_rt.cuh"
 #include "my_gemm.cuh"
+#include "tensorRT/deploy_yolo.h"
 #include <stdio.h>
 
 cudaError_t addWithCuda(int *c, const int *a, const int *b, unsigned int size);
@@ -56,7 +57,8 @@ int main()
     // learn_stream();
     // learn_cublas();
     // learn_rt();
-    my_gemm();
+    // my_gemm();
+    deploy_yolo();
     return 0;
 }
 

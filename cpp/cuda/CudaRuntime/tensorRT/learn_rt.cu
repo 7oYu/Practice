@@ -1,6 +1,7 @@
 #include "learn_rt.cuh"
 #include <cuda_runtime_api.h>
 #include <device_launch_parameters.h>
+#include "logger.h"
 using namespace nvinfer1;
 
 __global__ void initializeArray(float* data, float value, int size) {
